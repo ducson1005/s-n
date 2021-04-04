@@ -1,0 +1,136 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding:0
+}
+body{
+	background:#C4C0C0 ;
+}
+#Outer{
+	width: 1000px;
+	height: 650px;
+	background: white;
+	margin: auto;
+	margin: 20px auto;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.Header{
+	width: 1000px;
+	height: 50px;
+	background:  #C1EDA8;
+}.logo{
+	width: 100px;
+	height: 55px;
+	float: left;
+	margin-left: 25px;
+	text-align: center;
+	padding-top: 5px;
+}
+.nav{
+	width: 820px;
+	height: 30px;
+	background: #F7EFEF;
+	float: left;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 13px;
+
+}
+.main{
+	width: 1000px;
+	height: 100px;
+	background:  #70DBC2;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 18px;
+	
+}
+
+.Footer{
+	width: 1000px;
+	height: 200px;
+	background:  #70DBC2;
+	margin-top: 20px;
+}
+
+.Footer-1{
+	width: 250px;
+	height: 160px;
+	background:  #DFE87D;
+	float: left;
+	margin-left: 60px;
+	margin-top: 20px;
+	text-align: center;
+}
+.Footer-2{
+	width: 250px;
+	height: 160px;
+	background: #DFE87D;
+	float: left;
+	margin-left: 60px;
+	margin-top: 20px;
+	text-align: center;
+}
+.Footer-3{
+	width: 250px;
+	height: 160px;
+	background: #DFE87D;
+	float: left;
+	margin-left: 60px;
+	margin-top: 20px;
+	text-align: center;
+}
+.so{
+	width: 1000px;
+	height: 100px;
+	background: #70DBC2;
+	margin-top: 20px;
+}
+.so-1{
+	width: 800px;
+	height: 80px;
+	background:  #FBF8F8;
+	float: left;
+	margin-left: 100px;
+	margin-top: 10px;
+	text-align: center;
+}
+.cuoi{
+	width: 1000px;
+	height: 100px;
+	background: #C1EDA8;
+	margin-top: 20px;
+}
+.cuoi-1{
+	width: 400px;
+	height: 60px;
+	background:  #FBF8F8;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+.cuoi-2{
+	width: 400px;
+	height: 60px;
+	background:  #FBF8F8;
+	float: left;
+	margin-left: 160px;
+	margin-top: 20px;
+	text-align: center;
+}
+.logo-2{
+	width: 400px;
+	height: 60px;
+	float: left;
+	margin-left: 480px;
+	margin-top: -55px;
+	font-size: 20px;
+}
+
+
+	
+
+	
